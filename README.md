@@ -1,4 +1,3 @@
-CODE REVIEW TKTKTK
 
 /****************************WEEK 9 THEORETICAL HOMEWORK****************************/
 
